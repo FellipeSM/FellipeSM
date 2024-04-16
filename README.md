@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil FellipeSM 😁
+## Bem-vindo(a) ao meu perfil Fellipe Martins 😁
 
  <div>
    <a href="https://github.com/FellipeSM">
